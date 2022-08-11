@@ -1,9 +1,6 @@
+import AppWeather from './components/AppWeather';
 function App() {
-  return (
-    <div>
-      <h1>Wheater app</h1>
-    </div>
-  );
+  return <AppWeather />;
 }
 
 export default App;
